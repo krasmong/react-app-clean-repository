@@ -6,8 +6,10 @@
 
 # в pakcage.json заменить: "name": "name-of-app",
 
-# в index.html заменить: "<title>Name of App</title>"
+# в index.html заменить: "&lt;title&gt;Name of App&lt;/title&gt;"
 
-# в App.js поправить: "<h1>Hello my lovely</h1>"
+# в App.js поправить: "&lt;h1&gt;Hello my lovely&lt;/h1&gt;"
 
 # в App.css поправить стили
+
+олами &lt; и &gt;.
