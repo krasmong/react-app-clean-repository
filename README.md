@@ -11,5 +11,3 @@
 # в App.js поправить: "&lt;h1&gt;Hello my lovely&lt;/h1&gt;"
 
 # в App.css поправить стили
-
-олами &lt; и &gt;.
