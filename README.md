@@ -2,7 +2,9 @@
 
 # Пустой репозиторий
 
-## 1. для установки модулей и библтиотек: npm i;
+## 1. для установки модулей и библтиотек: npm i,
+##    npm install --save prop-types
+##    npm install gh-pages --save-dev
 
 ## 2. в pakcage.json:
 ##  - заменить: "name": "name-of-app",
